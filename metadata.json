@@ -1,0 +1,8 @@
+{
+  "name": "Translation Accurate",
+  "description": "A high-precision English-Spanish translator powered by Gemini, featuring context-aware translations and natural speech synthesis.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
